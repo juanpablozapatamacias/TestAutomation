@@ -1,0 +1,14 @@
+2020-03-13 12:42:02 INFO  Log:20 - Starting Testing ...Test Suite is starting
+2020-03-13 12:42:02 INFO  Log:30 - Deleting Cookies
+2020-03-13 12:42:02 INFO  Log:30 - Maximizing the browser window
+2020-03-13 12:42:06 INFO  Log:30 - Applying the implicit wait during 10 seconds
+2020-03-13 12:42:06 INFO  Log:30 - Open the web site to test
+2020-03-13 12:42:10 INFO  Log:30 - Prepare the credentials to access...
+2020-03-13 12:42:10 INFO  Log:30 - Authenticate to the web application ...
+2020-03-13 12:42:10 INFO  Log:30 - Fill the username
+2020-03-13 12:42:11 INFO  Log:30 - Fill the password
+2020-03-13 12:42:12 INFO  Log:30 - Click on Login button
+2020-03-13 12:42:14 INFO  Log:30 - Validate creds authentication
+2020-03-13 12:42:24 INFO  Log:30 - Taking first screenshot
+2020-03-13 12:42:24 INFO  Log:30 - Test Demo
+2020-03-13 12:42:24 INFO  Log:25 - Ending Testing ...Test is ending
