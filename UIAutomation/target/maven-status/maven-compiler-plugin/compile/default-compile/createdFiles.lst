@@ -1,0 +1,7 @@
+ui\automation\selenium\utilities\CommonUtilities.class
+ui\automation\selenium\pageobjects\LoginPage.class
+ui\automation\selenium\base\BaseTest.class
+ui\automation\selenium\utilities\reports\ExtentManager.class
+ui\automation\selenium\base\BasePage.class
+ui\automation\selenium\utilities\reports\ExtentTestManager.class
+ui\automation\selenium\utilities\Log.class

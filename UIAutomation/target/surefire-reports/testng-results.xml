@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12" started-at="2020-03-12T04:04:53Z" finished-at="2020-03-12T04:04:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12" started-at="2020-03-12T04:04:53Z" finished-at="2020-03-12T04:04:53Z">
+      <class name="ui.automation.selenium.tests.DemoTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:ui.automation.selenium.tests.DemoTest@5167f57d]" name="setup" is-config="true" duration-ms="21418" started-at="2020-03-12T04:04:32Z" finished-at="2020-03-12T04:04:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="demoTest(java.lang.reflect.Method)[pri:0, instance:ui.automation.selenium.tests.DemoTest@5167f57d]" name="demoTest" duration-ms="1" started-at="2020-03-12T04:04:53Z" description="Test Demo to create reports" finished-at="2020-03-12T04:04:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ui.automation.selenium.tests.DemoTest.demoTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:ui.automation.selenium.tests.DemoTest@5167f57d]" name="teardown" is-config="true" duration-ms="601" started-at="2020-03-12T04:04:53Z" finished-at="2020-03-12T04:04:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- ui.automation.selenium.tests.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,4 @@
+ui\automation\selenium\tests\listeners\AnnotationTransformer.class
+ui\automation\selenium\tests\listeners\Retry.class
+ui\automation\selenium\tests\DemoTest.class
+ui\automation\selenium\tests\listeners\TestListener.class
