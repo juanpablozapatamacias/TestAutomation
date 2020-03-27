@@ -1,4 +1,4 @@
-package ui.automation.selenium.utilities.reports;
+package ui.utilities.reports;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -8,7 +8,7 @@ import java.util.Properties;
 
 import com.relevantcodes.extentreports.ExtentReports;
 
-import ui.automation.selenium.utilities.CommonUtilities;
+import ui.utilities.CommonUtilities;
 
 //OB: ExtentReports extent instance created here. That instance can be reachable by getReporter() method.
 

@@ -1,4 +1,4 @@
-package ui.automation.selenium.utilities;
+package ui.utilities;
 
 import java.awt.*;
 

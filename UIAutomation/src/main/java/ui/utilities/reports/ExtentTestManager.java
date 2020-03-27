@@ -1,4 +1,4 @@
-package ui.automation.selenium.utilities.reports;
+package ui.utilities.reports;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;

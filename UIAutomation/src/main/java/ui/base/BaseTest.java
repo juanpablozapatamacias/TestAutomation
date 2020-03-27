@@ -1,4 +1,4 @@
-package ui.automation.selenium.base;
+package ui.base;
 
 import java.util.Enumeration;
 import java.util.HashMap;
@@ -18,10 +18,9 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.Assert;
 
-import ui.automation.selenium.pageobjects.LoginPage;
-
-import ui.automation.selenium.utilities.CommonUtilities;
-import ui.automation.selenium.utilities.Log;
+import ui.pageobjects.LoginPage;
+import ui.utilities.CommonUtilities;
+import ui.utilities.Log;
 
 public class BaseTest {
 	

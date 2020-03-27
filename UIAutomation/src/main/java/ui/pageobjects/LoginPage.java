@@ -1,12 +1,12 @@
-package ui.automation.selenium.pageobjects;
+package ui.pageobjects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import ui.automation.selenium.base.BasePage;
-import ui.automation.selenium.utilities.CommonUtilities;
-import ui.automation.selenium.utilities.Log;
+import ui.base.BasePage;
+import ui.utilities.CommonUtilities;
+import ui.utilities.Log;
 
 public class LoginPage extends BasePage{
 	

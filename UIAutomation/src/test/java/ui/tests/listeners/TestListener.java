@@ -10,12 +10,11 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-import ui.automation.selenium.base.BasePage;
-import ui.automation.selenium.base.BaseTest;
-
-import ui.automation.selenium.utilities.Log;
-import ui.automation.selenium.utilities.reports.ExtentManager;
-import ui.automation.selenium.utilities.reports.ExtentTestManager;
+import ui.base.BasePage;
+import ui.base.BaseTest;
+import ui.utilities.Log;
+import ui.utilities.reports.ExtentManager;
+import ui.utilities.reports.ExtentTestManager;
 
 public class TestListener extends BaseTest implements ITestListener{
 	

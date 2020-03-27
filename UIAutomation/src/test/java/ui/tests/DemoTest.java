@@ -5,8 +5,8 @@ import java.lang.reflect.Method;
 import org.testng.annotations.Test;
 import org.testng.Assert;
 
-import ui.automation.selenium.base.BaseTest;
-import ui.automation.selenium.utilities.Log;
+import ui.base.BaseTest;
+import ui.utilities.Log;
 
 public class DemoTest extends BaseTest {
 	

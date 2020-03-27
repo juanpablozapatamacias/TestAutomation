@@ -9,9 +9,8 @@ import org.openqa.selenium.WebDriver;
 import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;
 
-import ui.automation.selenium.base.BaseTest;
-
-import ui.automation.selenium.utilities.reports.ExtentTestManager;
+import ui.base.BaseTest;
+import ui.utilities.reports.ExtentTestManager;
 
 public class Retry implements IRetryAnalyzer {
 	

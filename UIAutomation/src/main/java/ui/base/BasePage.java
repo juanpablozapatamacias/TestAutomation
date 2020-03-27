@@ -1,4 +1,4 @@
-package ui.automation.selenium.base;
+package ui.base;
 
 import java.util.List;
 import java.util.Properties;
@@ -14,8 +14,8 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import ui.automation.selenium.utilities.CommonUtilities;
-import ui.automation.selenium.utilities.Log;
+import ui.utilities.CommonUtilities;
+import ui.utilities.Log;
 
 public class BasePage {
 
