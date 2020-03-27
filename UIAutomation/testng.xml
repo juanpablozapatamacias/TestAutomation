@@ -11,7 +11,7 @@
   
   <test thread-count="5" name="Test">
     <classes>
-      <class name="ui.automation.selenium.tests.DemoTest"/>
+      <class name="ui.tests.DemoTest"/>
     </classes>
   </test> <!-- Test -->
   
