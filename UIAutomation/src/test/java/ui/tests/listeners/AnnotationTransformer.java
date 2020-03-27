@@ -1,4 +1,4 @@
-package ui.automation.selenium.tests.listeners;
+package ui.tests.listeners;
 
 
 import java.lang.reflect.Constructor;

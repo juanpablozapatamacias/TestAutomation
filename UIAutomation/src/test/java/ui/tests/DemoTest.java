@@ -1,4 +1,4 @@
-package ui.automation.selenium.tests;
+package ui.tests;
 
 import java.lang.reflect.Method;
 
