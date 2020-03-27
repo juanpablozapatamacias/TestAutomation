@@ -1,7 +1,5 @@
 package ui.automation.selenium.base;
 
-import java.lang.reflect.Method;
-import java.util.Arrays;
 import java.util.Enumeration;
 import java.util.HashMap;
 import java.util.Map;
@@ -16,21 +14,14 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
-import org.testng.ITestResult;
-import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
 import org.testng.Assert;
 
 import ui.automation.selenium.pageobjects.LoginPage;
 
 import ui.automation.selenium.utilities.CommonUtilities;
 import ui.automation.selenium.utilities.Log;
-import ui.automation.selenium.utilities.reports.ExtentTestManager;
 
 public class BaseTest {
 	
